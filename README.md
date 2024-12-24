@@ -1,0 +1,1 @@
+This repository demonstrates a subtle HTML error involving an unclosed paragraph tag within innerHTML. The bug is that the paragraph tag inside the innerHTML is not properly closed. This can lead to unexpected rendering behavior in some browsers and validation errors.  The solution shows how to correctly close the paragraph tag to fix the issue.
